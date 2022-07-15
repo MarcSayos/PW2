@@ -1,0 +1,61 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "anakin",
+        "password": "jcosmvl",
+        "firstName": "anakin",
+        "lastName": "skywalker",
+        "address": "somewhere",
+        "city": "somewhereBigger",
+        "zip": 3141592
+      }
+    ],
+    "websites": [
+      {
+        "id": 1,
+        "name": "Iuri",
+        "link": "https://iuri.is/"
+      },
+      {
+        "id": 2,
+        "name": "Prashant",
+        "link": "https://prashantsani.com/"
+      },
+      {
+        "id": 3,
+        "name": "Albino",
+        "link": "https://albinotonnina.com/"
+      },
+      {
+        "id": 4,
+        "name": "Riccardo",
+        "link": "http://riccardozanutta.com/"
+      },
+      {
+        "id": 5,
+        "name": "Dries",
+        "link": "http://driesvanbroeck.be/"
+      },
+      {
+        "id": 6,
+        "name": "Adrien",
+        "link": "https://adrienlaurent.fr/"
+      },
+      {
+        "id": 7,
+        "name": "Jacob",
+        "link": "https://jacobleech.com/"
+      },
+      {
+        "id": 8,
+        "name": "Guillaume",
+        "link": "https://guillaumegouessan.com/"
+      },
+      {
+        "id": 9,
+        "name": "Mario",
+        "link": "https://marioecg.com/"
+      }
+    ]
+  }
